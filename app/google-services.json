@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "445152331622",
+    "firebase_url": "https://fir-test-d5c81.firebaseio.com",
+    "project_id": "fir-test-d5c81",
+    "storage_bucket": "fir-test-d5c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445152331622:android:430d6c8fabb3380d",
+        "android_client_info": {
+          "package_name": "com.example.pranto.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445152331622-a0qeouvfn1k5bvu3ulop9b1peo0gmvle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg42xdvjOnfI4e9sVTJYhuowwYZ5eildM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
